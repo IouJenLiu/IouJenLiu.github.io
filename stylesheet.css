@@ -84,17 +84,15 @@ a {
   font-size: 16px
 }
 
-heading {
-      font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
-      font-size: 16px;
-    }
-
 strong {
-  font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
-
+heading {
+      font-family: 'Titillium Web SemiBold', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+    }
 
 papertitle {
   font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
