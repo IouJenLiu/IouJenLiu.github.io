@@ -80,28 +80,29 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
-}
-
-strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
+  font-size: 16px
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+      font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
+    }
+
+strong {
+  font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
 }
 
+
+
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Titillium Web Bold', Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  font-weight: 700
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
   font-size: 32px;
 }
 
