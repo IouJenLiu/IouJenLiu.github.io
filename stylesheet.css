@@ -98,6 +98,7 @@ heading {
 papertitle {
   font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
   font-size: 16px;
+  font-weight: bold;
 }
 
 name {
